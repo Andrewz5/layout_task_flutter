@@ -1,4 +1,7 @@
 # flutter_app_layout
+![Column_layout](https://user-images.githubusercontent.com/67756820/133655402-ed2250b3-51ac-42a9-9ef6-4cc40f6dc979.PNG)
+![row_layout](https://user-images.githubusercontent.com/67756820/133655407-73b7754c-1a9c-47a8-8e1d-5065ea17e2a5.PNG)
+![Layout](https://user-images.githubusercontent.com/67756820/133655410-1085614a-ee1d-4e67-b48a-2d3dbff27b82.PNG)
 
 A new Flutter application.
 
